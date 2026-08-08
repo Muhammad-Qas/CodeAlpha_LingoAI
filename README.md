@@ -70,7 +70,7 @@
 
 # 
 
-# !\[LingoAI Home Page](screenshots/Home-page.png)
+# ![LingoAI Home Page](screenshots/Home-page.png)
 
 # 
 
@@ -78,7 +78,8 @@
 
 # 
 
-# !\[LingoAI Translator](screenshots/Translator.png)
+# ![LingoAI Translator](screenshots/Translator.png)
+
 
 # 
 
@@ -86,7 +87,7 @@
 
 # 
 
-# !\[LingoAI Languages](screenshots/Languages.png)
+# ![LingoAI Languages](screenshots/Languages.png)
 
 # 
 
@@ -94,7 +95,7 @@
 
 # 
 
-# !\[LingoAI Features](screenshots/Features.png)
+# ![LingoAI Features](screenshots/Features.png)
 
 # 
 
